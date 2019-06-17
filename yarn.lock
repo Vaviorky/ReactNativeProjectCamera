@@ -802,9 +802,9 @@
     "@types/yargs" "^12.0.9"
 
 "@react-native-community/cli@^1.2.1":
-  version "1.9.9"
-  resolved "https://registry.yarnpkg.com/@react-native-community/cli/-/cli-1.9.9.tgz#79bba50258ad8cac2d66148ef649bdbf7b1a5aca"
-  integrity sha512-puO2sfbAEimXCtJQK0N2CHzQCKPd97HQKfOG7V6sq8pmcjHPg7Q1MT6fjJjrlzhR0tKOGltpb6N8hcWsg9pNgg==
+  version "1.9.10"
+  resolved "https://registry.yarnpkg.com/@react-native-community/cli/-/cli-1.9.10.tgz#6494e604fae3fd5993571a31bd16f0af751d56b4"
+  integrity sha512-mYFsSljhia/xNozRRDXC5HyGRBWaDh3OickT28i6NrJSZLjp0kAH6g4c0OWk67EslgXcMi/qYpucA8W54ldu1w==
   dependencies:
     chalk "^1.1.1"
     commander "^2.19.0"
@@ -4858,9 +4858,10 @@ react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
-"react-native-camera@git+https://git@github.com/react-native-community/react-native-camera.git":
+react-native-camera@^2.10.2:
   version "2.10.2"
-  resolved "git+https://git@github.com/react-native-community/react-native-camera.git#3e715b1535080e21a3ca45362541c4cba307c014"
+  resolved "https://registry.yarnpkg.com/react-native-camera/-/react-native-camera-2.10.2.tgz#2aafc6171b0586c32f76232903836135bb7a2655"
+  integrity sha512-SWhAY36PLHRGetCjxALcKAgxuEiqqD6PtBg36E/JYtlH2zXkOQ0N2VIdV5amIo2xr9uDSa28r78emgVrH7z6dA==
   dependencies:
     prop-types "^15.6.2"
 
